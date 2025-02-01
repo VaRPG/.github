@@ -1,4 +1,6 @@
+<span align="center">
 ![Roleplay Şehri](https://placehold.co/800x400/EEE/31343C?text=VaRP+City+Life)
+</span>
 
 ## Hakkımızda
 VaRP, GTA 5 üzerinde en sürükleyici ve gerçekçi rol yapma deneyimini sunan bir roleplay sunucusudur. Gerçekçi ekonomi, detaylı meslek sistemleri ve oyuncu odaklı yönetim anlayışı ile kendinizi tamamen oyunun içinde hissedeceksiniz.
@@ -20,7 +22,9 @@ VaRP, GTA 5 üzerinde en sürükleyici ve gerçekçi rol yapma deneyimini sunan 
 
 ## 📢 Son Güncellemeler
 ### 🔹 **v2.0 - (18-12-2024)**
+<span align="center">
 ![Güncelleme 2.0](https://placehold.co/800x400/EEE/31343C?text=Güncelleme+2.0)
+</span>
 - 🛠️ Daha stabil ve optimize edilmiş oyun modu & yeni sistemlerle güncellenmeye devam ediyor
 
 ## 🌐 Topluluğumuza Katılın
